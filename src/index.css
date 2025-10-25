@@ -1,0 +1,10 @@
+body {
+  background-color: #3b3838;
+}
+.pokemonsPage {
+  background-color: #383434;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  padding: 20px;
+}
